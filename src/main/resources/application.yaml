@@ -1,0 +1,9 @@
+spring:
+  r2dbc:
+    url:
+    username:
+    password:
+    pool:
+      initial-size: 10
+      max-size: 10
+      max-life-time: 8h
